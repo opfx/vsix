@@ -1,0 +1,28 @@
+
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title type="text" />
+<id>uuid:bcecded5-97c8-4d24-96f1-7d9e16652433;id=1</id>
+<updated>2017-01-12T00:00:00Z</updated>
+  <entry>
+    <id>opfx.vsix.phppt.4ee00aaf-0c19-4214-ad85-5a64fde20ae0</id>
+    <title type="text">PHP Module Project Template</title>
+    <summary type="text">Creates Visual Studio projects for native PHP module</summary>
+    <published>2017-01-12T00:00:00Z</published>
+    <updated>2017-01-12T00:00:00Z</updated>
+    <author>
+      <name>Opfx</name>
+    </author>
+    <link rel="icon" href="images/opfx.vsix.phppt.4ee00aaf-0c19-4214-ad85-5a64fde20ae0_Icon_SelectionHighlightIcon.jpg" />
+    <link rel="previewimage" href="images/opfx.vsix.phppt.4ee00aaf-0c19-4214-ad85-5a64fde20ae0_PreviewImage_SelectionHighlight.jpg" />
+    <content type="application/octet-stream" src="package/Opfx.VisualStudio.PhpModule.vsix" />
+    <Vsix xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/developer/vsx-syndication-schema/2010">
+      <Id>opfx.vsix.phppt.4ee00aaf-0c19-4214-ad85-5a64fde20ae0</Id>
+      <Version>1.1</Version>
+      <References />
+      <Rating xsi:nil="true" />
+      <RatingCount xsi:nil="true" />
+      <DownloadCount xsi:nil="true" />
+   </Vsix>
+  </entry>
+</feed>
