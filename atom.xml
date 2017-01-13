@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">OPFX Gallery</title>
-  <id>3F903086-1554-48F2-87FD-B1556018692F;id=2</id>
+  <id>3F903086-1554-48F2-87FD-B1556018692F;id=4</id>
   <updated>2017-01-12T22:36:51-05:00</updated>  
   <entry>
     <id>opfx.vsix.phppt.4ee00aaf-0c19-4214-ad85-5a64fde20ae0</id>
@@ -15,10 +15,11 @@
     <link rel="alternate" type="text/html" href="https://github.com/opfx-vsix/PhpProject"/>
     <link rel="releasenotes" type="text/html" href="https://github.com/opfx-vsix/PhpProject"/>
     <link rel="icon" type="text" href="img/opfx.vsix.phppt.4ee00aaf-0c19-4214-ad85-5a64fde20ae0_icon.png"/>
+    <link rel="previewimage" type="text" href="img/opfx.vsix.phppt.4ee00aaf-0c19-4214-ad85-5a64fde20ae0_preview.png"/>
     <content type="application/octet-stream" src="ext/Opfx.VisualStudio.PhpModule.vsix" />
     <Vsix xmlns="http://schemas.microsoft.com/developer/vsx-syndication-schema/2010" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <Id>opfx.vsix.phppt.4ee00aaf-0c19-4214-ad85-5a64fde20ae0</Id>
-      <Version>0.2</Version>
+      <Version>0.2.1</Version>
       <References></References>
       <Rating xsi:nil="true"></Rating>
       <RatingCount xsi:nil="true"></RatingCount>
