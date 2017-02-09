@@ -7,7 +7,7 @@
     <title type="text">PHP Extension Project Template</title>
     <summary type="text">Provides a project template for PHP native extensions.</summary>
     <published>2017-01-13T03:36:05Z</published>
-    <updated>2017-01-13T03:36:05Z</updated>
+    <updated>2017-02-08T22:36:51-05:00</updated>
     <author>
       <name>Opfx</name>
     </author>
@@ -19,7 +19,7 @@
     <content type="application/octet-stream" src="ext/Opfx.VisualStudio.PhpExtension.vsix" />
     <Vsix xmlns="http://schemas.microsoft.com/developer/vsx-syndication-schema/2010" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <Id>opfx.vsix.phppt.4ee00aaf-0c19-4214-ad85-5a64fde20ae0</Id>
-      <Version>0.2.1</Version>
+      <Version>0.2.5</Version>
       <References></References>
       <Rating xsi:nil="true"></Rating>
       <RatingCount xsi:nil="true"></RatingCount>
